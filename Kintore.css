@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+	margin: auto;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.title{
+	margin: auto;
+}
+
+.explanation{
+	margin-left: 40%;
+}
+
+.body-title-box{
+	margin-left: 15%;
+	margin-top: 7px;
+	width: 40px;
+	height: 260px;
+	border: 3px solid black;
+	padding: 10px;
+	text-align: center;
+}
+
+.box-title{
+	margin-top: 100px;
+}
